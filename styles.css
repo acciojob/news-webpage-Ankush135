@@ -6,7 +6,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Header styling */
+
 .header {
 	background-color: #011e29;
     color: white;
@@ -14,7 +14,7 @@ body {
     padding: 20px;
 }
 
-/* Layout container */
+
 .news-container {
     display: flex;
     justify-content: space-around;
@@ -22,7 +22,7 @@ body {
     margin: 30px;
 }
 
-/* Latest news section */
+
 .latest-news-section {
 	text-align: center;
     background-color: white;
@@ -31,7 +31,7 @@ body {
     border-radius: 10px;
 }
 
-/* Main article section */
+
 .main-article-section {
 	text-align: center;
     background-color: white;
@@ -40,7 +40,7 @@ body {
     border-radius: 10px;
 }
 
-/* Pictorial news section */
+
 .pictorial-news-section {
 	background-color: white;
     padding: 15px;
